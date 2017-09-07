@@ -1,6 +1,6 @@
 /**********************************************************
  * EECS2011: Fundamentals of Data Structures,  Fall 2016
- * Assignment 1, Problem 1: ArraySqueeze.java
+ * Assignment 2, Problem 1: Coins.java
  * Student Name:  Yang Wang
  * Student cse account:  infi999		
  * Student ID number:  213894167
